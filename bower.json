@@ -1,5 +1,5 @@
 {
-  "name": "toolbar",
+  "name": "toolbar.js.extended",
   "main": "jquery.toolbar.js",
   "ignore": [
     "**/.*",
